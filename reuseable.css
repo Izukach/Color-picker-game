@@ -1,0 +1,21 @@
+.A-margin {
+    margin: auto;
+}
+
+.background{
+
+    width: var(--min-width);
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.warp{
+    flex-wrap: wrap;
+}
+
+.align-item {
+    align-items: center;
+}
